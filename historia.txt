@@ -1,6 +1,7 @@
 Hola,
 
 
-Mi nombre es Cristian y esta es mi historia,
+Mi nombre es Cristian y esta es mi historia, 
+Tengo 25 años y vivo en Bogota.
 
 Haremos algunas pruebas para verificar el uso de verciones. 
