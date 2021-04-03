@@ -4,4 +4,7 @@ Hola,
 Mi nombre es Cristian y esta es mi historia, 
 Tengo 25 años y vivo en Bogota.
 
-He realizado un cambio de vida.
+Haremos algunas pruebas para verificar el uso de verciones. 
+
+Mañana hablaremos sobre su vida laborar.
+La próxima semana se adicionará el recorrido académico.
